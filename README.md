@@ -3,7 +3,7 @@
 - 🎓 Engineering Student @ **Esprit Engineering School**
 - 💻 Passionate about **Web Development & Software Engineering**  
 - 🌍 Location: **Hammam Lif, Tunisia**  
-- 📧 Email: **Hayder.benahmed@esprit.com**  
+- 📧 Email: **Hayder.benahmed@esprit.tn**  
 
 ---
 
